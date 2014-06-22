@@ -1,0 +1,32 @@
+6-20-2014 13:18:18 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:14 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:14 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:14 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:15 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:15 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:53 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:54 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:54 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:54 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:54 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:19:55 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:20:41 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:20:41 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:20:41 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:20:42 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:20:42 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:20:42 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:20:42 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:46:54 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:09 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:09 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:09 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:10 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:10 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:10 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:10 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 6 : Trying to get property of non-object  <br />
+6-20-2014 13:47:44 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 7 : Trying to get property of non-object  <br />
+6-20-2014 14:07:26 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 10 : Undefined variable: event_date  <br />
+6-20-2014 14:07:26 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 10 : Undefined variable: event_end_time  <br />
+6-20-2014 14:07:26 ALERTE        'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 13 : array_push() expects parameter 1 to be array, null given  <br />
+6-20-2014 14:09:18 ALERTE        'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 13 : array_push() expects parameter 1 to be array, null given  <br />

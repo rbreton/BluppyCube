@@ -1,3 +1,6 @@
+<?php 
+  include_once("inc/config.inc.php");
+?>
 <!DOCTYPE html>
 <html>
     
@@ -20,7 +23,7 @@
 <body>
 
   <div id="game_div"></div>
-
+  <div id="txtHint"><b>Person info will be listed here.</b></div>
 </body>
 
 </html>
