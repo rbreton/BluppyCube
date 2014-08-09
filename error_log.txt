@@ -30,3 +30,42 @@
 6-20-2014 14:07:26 AVERTISSEMENT 'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 10 : Undefined variable: event_end_time  <br />
 6-20-2014 14:07:26 ALERTE        'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 13 : array_push() expects parameter 1 to be array, null given  <br />
 6-20-2014 14:09:18 ALERTE        'D:\Users\REBRE35\Documents\GitRepo\BluppyCube\setScore.php' ligne 13 : array_push() expects parameter 1 to be array, null given  <br />
+8-8-2014 18:36:04 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ (trying to connect via tcp://localhost:3306)  <br />
+8-8-2014 18:36:04 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+  <br />
+8-8-2014 18:36:04 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 38 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:04 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 39 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ (trying to connect via tcp://localhost:3306)  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 38 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 39 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 3 : mysqli_real_escape_string() [<a href='function.mysqli-real-escape-string'>function.mysqli-real-escape-string</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 4 : mysqli_real_escape_string() [<a href='function.mysqli-real-escape-string'>function.mysqli-real-escape-string</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 6 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:07 AVERTISSEMENT 'I:\gitRepo\BluppyCube\setScore.php' ligne 7 : Trying to get property of non-object  <br />
+8-8-2014 18:36:07 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 13 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ (trying to connect via tcp://localhost:3306)  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 38 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 39 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 3 : mysqli_real_escape_string() [<a href='function.mysqli-real-escape-string'>function.mysqli-real-escape-string</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 4 : mysqli_real_escape_string() [<a href='function.mysqli-real-escape-string'>function.mysqli-real-escape-string</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 6 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:08 AVERTISSEMENT 'I:\gitRepo\BluppyCube\setScore.php' ligne 7 : Trying to get property of non-object  <br />
+8-8-2014 18:36:08 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 13 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ (trying to connect via tcp://localhost:3306)  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 36 : mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 38 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\inc\config.inc.php' ligne 39 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 3 : mysqli_real_escape_string() [<a href='function.mysqli-real-escape-string'>function.mysqli-real-escape-string</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 4 : mysqli_real_escape_string() [<a href='function.mysqli-real-escape-string'>function.mysqli-real-escape-string</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 6 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
+8-8-2014 18:36:09 AVERTISSEMENT 'I:\gitRepo\BluppyCube\setScore.php' ligne 7 : Trying to get property of non-object  <br />
+8-8-2014 18:36:09 ALERTE        'I:\gitRepo\BluppyCube\setScore.php' ligne 13 : mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli  <br />
